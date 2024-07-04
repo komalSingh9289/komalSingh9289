@@ -33,6 +33,16 @@ When I'm not coding, you can find me immersed in a good novel. I love exploring 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
+-----
+
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=komalSingh9289&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 📊 GitHub Stats
 ![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalSingh9289&show_icons=true&theme=radical)
+
+
 
