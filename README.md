@@ -4,7 +4,7 @@
 I’m a passionate web developer with a keen interest in building dynamic and user-friendly web applications. I love exploring new technologies and constantly improving my skills.
 
 ## 🌱 Currently Learning
-I'm currently diving into React to enhance my frontend development skills. I’m also exploring advanced PHP and frameworks like Laravel for a stronger backend development foundation.
+I'm currently diving into React to enhance my frontend development skills. I’m also exploring cloud computing , aws for deployement.
 
 
 ## 💞️ Looking to Collaborate On
