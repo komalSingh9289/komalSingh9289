@@ -11,7 +11,7 @@ I'm currently diving into React to enhance my frontend development skills. I’m
 I'm open to collaborating on open-source projects, especially those involving web development. If you have an exciting project or an idea that could benefit from a fresh perspective, let's connect!
 
 ## 📫 How to Reach Me
-- **Email**: [komal.singh928944.com](mailto:komal.singh928944.com)
+- **Email**: [komal.singh928944@gmail.com](mailto:komal.singh928944@gmail.com)
 - **LinkedIn**: [linkedin.com/in/komalsingh9289](https://www.linkedin.com/in/komalsingh9289)
 
 ## 😄 Pronouns
